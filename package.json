@@ -1,0 +1,24 @@
+{
+  "name": "NoteTaker2",
+  "version": "1.0.0",
+  "description": "This app allows you to write, save and delete notes.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gus1919/NoteTaker2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gus1919/NoteTaker2/issues"
+  },
+  "homepage": "https://github.com/gus1919/NoteTaker2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
