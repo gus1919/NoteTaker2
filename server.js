@@ -1,7 +1,7 @@
 // Dependencies
 const express = require('express');
 const apiPath = require('./routes/apiPath');
-const htmlPath = require('./routes/apihtml');
+const htmlPath = require('./routes/htmlPath');
 
 // Helper method for generating unique ids
 const uuid = require('./helpers/uuid');
