@@ -23,9 +23,9 @@ This app allows you to write, save and delete notes.
 
   >Click on get started and enter a note title and body.  Then save the note using the disc icon or add a new note using the plus symbol.  You can also delete a note by clicking on the garbage can icon next to the note. 
  
-  >
+  >Here is a link to the deployed application: https://limitless-basin-65020.herokuapp.com/notes
   
-  >Here is a link to the github repository: 
+  >Here is a link to the github repository: https://github.com/gus1919/NoteTaker2/
 
 
 
