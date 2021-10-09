@@ -41,13 +41,14 @@ This app allows you to write, save and delete notes.
 >  Additional Contributors: Solo Project.
 
   ## Features
-* Javasctipt
+* Javascript
 * node.js
+* express.js
+* NPM
+* Bootstrap
 * fs
-* jest
 * Heroku
 * uuid
-* api
 ---
   ## Issues
 > No known Issues.
