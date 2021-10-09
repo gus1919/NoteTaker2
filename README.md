@@ -27,6 +27,8 @@ This app allows you to write, save and delete notes.
   
   >Here is a link to the github repository: https://github.com/gus1919/NoteTaker2/
 
+![Screenshot (33)](https://user-images.githubusercontent.com/86876335/136672092-bdb15345-c612-42a6-9a2a-91678b8be50a.png)
+![Screenshot (36)](https://user-images.githubusercontent.com/86876335/136672095-50a2af89-7754-42ef-956d-685ad9bda49d.png)
 
 
   ---
